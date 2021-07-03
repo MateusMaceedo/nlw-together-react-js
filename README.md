@@ -6,6 +6,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
+[***Documentação e guias](https://www.notion.so/Mission-ReactJS-f01ae1ba0f8148ad8f1defbf990be484)
+
 ## 🚀 Como executar
 
 Clone o projeto e acesse a pasta do mesmo.
