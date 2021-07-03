@@ -6,7 +6,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-[x] [Documentação e guias](https://www.notion.so/Mission-ReactJS-f01ae1ba0f8148ad8f1defbf990be484)
+- [ x ] [Documentação e guias](https://www.notion.so/Mission-ReactJS-f01ae1ba0f8148ad8f1defbf990be484)
 
 ## 🚀 Como executar
 
